@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.sk": "Sk-VSC",
+        "xstring": "cpp"
+    }
+}
